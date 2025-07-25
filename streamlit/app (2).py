@@ -7,7 +7,7 @@
 # • Lets the user read, search, and export each section as a PDF
 # ----------------------------------------------------------------------------
 # How to run locally:
-#   pip install streamlit fpdf2
+pip install streamlit fpdf2
 #   streamlit run app.py
 ##############################################################################
 import streamlit as st
